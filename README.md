@@ -15,7 +15,7 @@ I'm Amit Tembhurnikar from Mumbai, India and I work as a Data Analyst at Ambit C
 - Also, I reported on conference calls, and investor meetings of major companies, and conducted interviews with representatives of corporates regarding their business outlook and news updates.
 
 
-#### Few of the Articles for Times Now,
+#### A few of the Articles for Times Now,
 
 Christopher Woods, Jefferies - Greed & Fear: Focus on Federal Reserve tightening cycle and India story. [Click here](https://www.timesnownews.com/business-economy/companies/article/christopher-woods-jefferies-greed-fear-focus-on-federal-reserve-tightening-cycle-and-india-story/847839)
 
@@ -39,7 +39,7 @@ I'm pursuing CQF with Fitch Learning.
 
 ### CQF Projects
 
-1. ### 7-steps to model building for your selected ticker using Random Forest Classifier. [Private Repo](https://github.com/amit-tembhurnikar/trend_RCF)
+1. ### 7-steps to model building for your selected ticker using Random Forest Classifier. [Private Repository](https://github.com/amit-tembhurnikar/trend_RCF)
 
 | Steps| Workflow | Remarks|
 |:---------|:-----------------|:-------------------|
@@ -81,7 +81,7 @@ We then compare the result of this strategy with the buy and hold and visualize 
 
 
 
-2. ### Monte Carlo Simulation for Pricing Asian Options and Lookback Options.
+2. ### Monte Carlo Simulation for Pricing Asian Options and Lookback Options. [Private Repository](https://github.com/amit-tembhurnikar/monte_carlo)
 
 
 Use the Euler-Maruyama Scheme for Simulating the under-stock price for option prices of two Exotic options, Asian Options and Lookback Options
