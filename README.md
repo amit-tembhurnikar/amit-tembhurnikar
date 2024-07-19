@@ -39,7 +39,7 @@ I'm pursuing CQF with Fitch Learning.
 
 ### CQF Projects
 
-1. ### 7-steps to model building for your selected ticker using Random Forest Classifier. [Private Repository](https://github.com/amit-tembhurnikar/trend_RCF)
+### 1. 7-steps to model building for your selected ticker using Random Forest Classifier. [Private Repository](https://github.com/amit-tembhurnikar/trend_RCF)
 
 | Steps| Workflow | Remarks|
 |:---------|:-----------------|:-------------------|
@@ -81,7 +81,7 @@ We then compare the result of this strategy with the buy and hold and visualize 
 
 
 
-2. ### Monte Carlo Simulation for Pricing Asian Options and Lookback Options. [Private Repository](https://github.com/amit-tembhurnikar/monte_carlo)
+### 2. Monte Carlo Simulation for Pricing Asian Options and Lookback Options. [Private Repository](https://github.com/amit-tembhurnikar/monte_carlo)
 
 
 Use the Euler-Maruyama Scheme for Simulating the under-stock price for option prices of two Exotic options, Asian Options and Lookback Options
