@@ -14,7 +14,11 @@ I'm Amit Tembhurnikar from Mumbai, India and I work as a Data Analyst at Ambit C
 
 
 
-### Factor Investment projects
+### Factor Investment projects. [Backtesting Nifty and Nifty 500 index Factor models and check custom portfolio exposure](https://factormodel1py-at.streamlit.app/)
+
+**I have created a sample factor investment strategy in India, using Nifty 50 and Nifty 500 index.** [Factor Model](https://github.com/amit-tembhurnikar/factor_models)
+
+
 
 
 
