@@ -30,7 +30,7 @@ The App also calculates factor exposure for a user defined custom portfolio.
 
 It reports the current exposure acrross all factors vs the benchmark as well shows historic exposure trend.
 
-![Factor Exposure}(https://github.com/amit-tembhurnikar/amit-tembhurnikar/blob/main/factor_model_op.png?raw=true)
+![Factor Exposure](https://github.com/amit-tembhurnikar/amit-tembhurnikar/blob/main/factor_model_op.png?raw=true)
 
 For further details please reach at amit.tembhurnikar@live.com
 
