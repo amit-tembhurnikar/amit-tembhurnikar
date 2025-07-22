@@ -73,8 +73,7 @@ Feature selection
 #### Back-testing
 We then compare the result of this strategy with the buy and hold and visualize the performance of the RandomForestClassifier Algorithm.
 
-
-<img width="738" alt="Screenshot 2024-07-19 at 4 33 56 AM" src="https://github.com/user-attachments/assets/9ba3e2f0-5324-43bf-bae2-3c583e209650">
+![Random Forest Classifier - Nifty Long](https://github.com/amit-tembhurnikar/amit-tembhurnikar/blob/main/Random%20Forest%20Classifier_result.png?raw=true)
 
 
 #### Observations of back-test:
@@ -158,22 +157,22 @@ Sample Data for Initial Problem,<br>
 
 ### Calculate the Exotic Option based on the Simulated Price Path for different periods (Daily, weekly, monthly)
 
-![newplot-4](https://github.com/user-attachments/assets/f7908517-c160-49ca-958b-fab3d71d42d5)
+![different periods](https://github.com/amit-tembhurnikar/amit-tembhurnikar/blob/main/Simulated%20Price%20Path%20for%20different%20periods.png?raw=true)
 
 
 ### Calculate the Exotic Option based on the Simulated Price Path for different stock prices $S_0$
 
-![newplot-3](https://github.com/user-attachments/assets/307d61aa-0c0f-4027-a0c1-1ac7fcb87ce8)
+![different stock prices](https://github.com/amit-tembhurnikar/amit-tembhurnikar/blob/main/Simulated%20Price%20Path%20for%20different%20stock%20prices.png?raw=true)
 
 
 ### Calculate the Exotic Option based on the Simulated Price Path for the different strike prices, E
 
-![newplot-2](https://github.com/user-attachments/assets/266037c2-0f97-4361-84a5-1916d37f3217)
+![different strike prices](https://github.com/amit-tembhurnikar/amit-tembhurnikar/blob/main/Simulated%20Price%20Path%20for%20the%20different%20strike%20prices.png?raw=true)
 
 
 ### Calculate the Exotic Option based on the Simulated Price Path for different volatility, $\sigma$
 
-![newplot](https://github.com/user-attachments/assets/145e4f88-51dd-40e5-8b7f-db87da741138)
+![different volatility](https://github.com/amit-tembhurnikar/amit-tembhurnikar/blob/main/Simulated%20Price%20Path%20for%20different%20volatility.png?raw=true)
 
 
 ## Conclusion 
