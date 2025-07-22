@@ -14,13 +14,25 @@ I'm Amit Tembhurnikar from Mumbai, India and I work as a Data Analyst at Ambit C
 
 
 
-### Factor Investment projects. [Backtesting Nifty and Nifty 500 index Factor models and check custom portfolio exposure](https://factormodel1py-at.streamlit.app/)
+### Factor Investment projects. [Factor models Dashboard](https://factormodel1py-at.streamlit.app/)
 
-**I have created a sample factor investment strategy in India, using Nifty 50 and Nifty 500 index.** [Factor Model](https://github.com/amit-tembhurnikar/factor_models)
+**I have created a sample factor investment strategy in India, using Nifty 50 and Nifty 500 index.** [Factor Model repository](https://github.com/amit-tembhurnikar/factor_models)
 
+The App backtest the **long only** factor strategies using factors as, Price Momentum, Volatility, Size, Value and Growth.
 
+The Indices can be Nifty 50 or Nifty 500 index, only 50 stocks are selected for faster execution, however only current members are used.
 
+Data is from public source, yfinance, and where it is not available random values are considere example value and growth.
 
+The Backtest results shows Alpha, Sharpe, max drawdown as volatility of these strategies.
+
+The App also calculates factor exposure for a user defined custom portfolio.
+
+It reports the current exposure acrross all factors vs the benchmark as well shows historic exposure trend.
+
+![Factor Exposure}(https://github.com/amit-tembhurnikar/amit-tembhurnikar/blob/main/factor_model_op.png?raw=true)
+
+For further details please reach at amit.tembhurnikar@live.com
 
 
 ## CQF
