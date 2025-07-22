@@ -22,13 +22,25 @@ The App backtest the **long only** factor strategies using factors as, Price Mom
 
 The Indices can be Nifty 50 or Nifty 500 index, only 50 stocks are selected for faster execution, however only current members are used.
 
-Data is from public source, yfinance, and where it is not available random values are considere example value and growth.
+Data is from public source, yfinance, and where it is not available random values are considered example for value and growth.
 
-The Backtest results shows Alpha, Sharpe, max drawdown as volatility of these strategies.
+The Backtest results show Alpha, Sharpe, max drawdown as volatility of these strategies.
+
+![Size](https://github.com/amit-tembhurnikar/amit-tembhurnikar/blob/main/Factor%20op/Factor_model_size.png?raw=true)
+
+![Momentum](https://github.com/amit-tembhurnikar/amit-tembhurnikar/blob/main/Factor%20op/Factor_model_momentum.png?raw=true)
+
+![Volatility](https://github.com/amit-tembhurnikar/amit-tembhurnikar/blob/main/Factor%20op/Factor_model_vol.png?raw=true)
+
+![Value](https://github.com/amit-tembhurnikar/amit-tembhurnikar/blob/main/Factor%20op/Factor_model_value.png?raw=true)
+
+![Growth](https://github.com/amit-tembhurnikar/amit-tembhurnikar/blob/main/Factor%20op/Factor_model_growth.png?raw=true)
+
+![Backtest](https://github.com/amit-tembhurnikar/amit-tembhurnikar/blob/main/Factor%20op/Factor_model_backtest.png?raw=true)
 
 The App also calculates factor exposure for a user defined custom portfolio.
 
-It reports the current exposure acrross all factors vs the benchmark as well shows historic exposure trend.
+It reports the current exposure across all factors vs the benchmark as well shows historic exposure trend.
 
 ![Factor Exposure](https://github.com/amit-tembhurnikar/amit-tembhurnikar/blob/main/factor_model_op.png?raw=true)
 
